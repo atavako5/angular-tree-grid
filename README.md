@@ -24,6 +24,7 @@ Choose the correct version for your application.
 |---|---|
 | <= 8  | 2.8.76  |
 | >= 9  | 3.0.5  |
+| >= 13  | 3.0.7  |
 
 ## Installation
 
