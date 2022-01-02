@@ -15,4 +15,4 @@ import { TreeHeadModule } from './modules/tree-head/tree-head.module';
 })
 export class AngularTreeGridModule { }
 
-export {DefaultEditor} from './modules/tree-cell/components/tree-cell-editor/default/default-editor.component';
+export { DefaultEditor } from './modules/tree-cell/components/tree-cell-editor/default/default-editor.component';
