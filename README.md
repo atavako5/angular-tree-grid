@@ -210,6 +210,7 @@ AngularTreeGridComponent has some very useful functions. Below is an example how
 | expandAll  | None | Expands all rows  |
 | collapseAll  | None | Collapses all rows  |
 | selectAll  | None | Selects all rows  |
+| selectOne  | row_id | Selects a row with row ID  |
 | deSelectAll  | None | DeSelects all rows  |
 | expandRow  | <ul><li> id: Row id(Primary Key) </li><li> suppress_event: Suppress expand event. It defaults to false.</li></ul> | Expands a specific row. see this <a href="https://curiouslinks.com/pages/angular-tree-grid/demo/#/specific_expand_collapse">Example</a>. |
 | collapseRow  | <ul><li> id: Row id(Primary Key) </li><li> suppress_event: Suppress expand event. It defaults to false.</li></ul> | Collapses a specific row. see this <a href="https://curiouslinks.com/pages/angular-tree-grid/demo/#/specific_expand_collapse">Example</a>. |
