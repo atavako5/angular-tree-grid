@@ -1,5 +1,6 @@
 # Changes in this fork:
 Added manual selectRow functionality
+
 The package is updated to be used with angular 13
 
 # Angular Tree Component
